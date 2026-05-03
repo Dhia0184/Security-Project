@@ -15,7 +15,7 @@ If a password is provided, the message is encrypted with AES-256-CBC (PBKDF2 key
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-steganography.git
+git clone https://github.com/Dhia0184/Security-Project.git
 cd image-steganography
 pip install -r requirements.txt
 ```
