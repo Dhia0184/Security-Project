@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python src/stego_app.py
+python src/crypto.py
 ```
 
 - **Encode tab** — select a cover image, type your message, optionally set a password, save the stego-image
